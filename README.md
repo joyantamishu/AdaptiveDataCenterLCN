@@ -11,7 +11,7 @@ __List of Parameters__
 - initialFlowCount: number of flows when the simulation starts .__Deafult__ 0
 - simstop: simulation time
 - k: value of k in a K-  ary fat tree. Details: https://www.cs.cornell.edu/courses/cs5413/2014fa/lectures/08-fattree.pdf
-- enableCustomRouting: __false__ for ecmp __true__ for custom routing similar to what we have used here (https://www.researchgate.net/publication/331016143_Coordinated_Power_Management_in_Data_Center_Networks). For this paper we only considered ecmp (__enableCustomRouting = false__)
+- enableCustomRouting: __false__ for ecmp __true__ for custom routing similar to what we have done here (https://www.researchgate.net/publication/331016143_Coordinated_Power_Management_in_Data_Center_Networks). For this paper we only considered ecmp (__enableCustomRouting = false__)
 - enableMarkovMode: __true__ if traffic generation follows 2 state markov chain model (state 1 and state 2). __false__ otherwise
 - markovETA0 and markovETA1: probability of creating one flow when some flow ends at state 1 and state 2 respectively. range: __[0,1]__ 
 - enableTickModel: __true__ if traffic generation follows exponential distribution. In this paper, we used Tick model.
