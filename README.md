@@ -1,7 +1,7 @@
 Recovered after being deleted accidentally. 
 __Paper Link__: https://ieeexplore.ieee.org/abstract/document/9000662
 
-__Basic Command Parameters__ to run the code:
+__Basic Command__ to run the code:
 
 
 _./waf --run "lpihandshake --paramter1 --parameter2"_
