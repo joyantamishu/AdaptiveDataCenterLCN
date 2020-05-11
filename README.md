@@ -23,4 +23,4 @@ __List of Parameters__
 __Sample command__
 
 
-./waf --run "lpihandshake --initialFlowCount=0 --simStop=1 --k=6 --enableCustomRouting=false --enableMarkovModel=false --markovETA0=1 --markovETA1=0 --enableTickModel=true --tickInterval=1.38 --deviceQDepth=1000000 --enableOptimizer=true --uniformBursts=true --RWratio=0.9  --enableCopy=0"
+*./waf --run "lpihandshake --initialFlowCount=0 --simStop=1 --k=6 --enableCustomRouting=false --enableMarkovModel=false --markovETA0=1 --markovETA1=0 --enableTickModel=true --tickInterval=1.38 --deviceQDepth=1000000 --enableOptimizer=true --uniformBursts=true --RWratio=0.9  --enableCopy=0"*
